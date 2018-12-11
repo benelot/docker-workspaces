@@ -1,2 +1,3 @@
 # docker-workspaces
-A collection of Dockerfiles building pratical, containerized workspaces.
+A collection of Dockerfiles to build practical, containerized workspaces.
+
